@@ -1,16 +1,26 @@
+![header](https://capsule-render.vercel.app/api?type=waving)
+
+
+
+## 기술 스택
+
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=Python&logoColor=white"/>
+
+
 ## Hi there 👋
 
-<!--
-**may0na1se/may0na1se** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 정보
+#### 1997.05.13, Busan, Korea(Republic of)
+#### 연세대학교 정치외교학과(2020.2~2025.8)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+## Github Statistics
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=may0na1se)](https://github.com/may0na1se/github-readme-stats)
+
